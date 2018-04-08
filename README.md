@@ -46,6 +46,8 @@ test motor (it just spins it):
 
 observe the LEDs flashing as they indicate the sequence the commands are being passed in. If they do not go in order, some GPIOs might be mismatched.
 
+Before running play.py, make sure to provide your own toto.mp3 and rick.mp3, as I am not allowed to share these in the repository for obvious reasons.
+
 ## Improvement TODOs ##
 
 * Script runs constantly (No need to restart)
