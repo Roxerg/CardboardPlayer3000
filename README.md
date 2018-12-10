@@ -1,4 +1,4 @@
-# Cardboard Player 3000 #
+![aaa](https://github.com/Roxerg/CardboardPlayer3000/blob/master/cardboard.png "cardboard")
 
 ## Motivation ##
 
